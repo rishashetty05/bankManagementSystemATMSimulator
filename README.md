@@ -1,2 +1,2 @@
 # bankManagementSystemATMSimulator
-BankManagementSystemATMSImulator uing AWT &amp; Swing on NETBEANS
+BankManagementSystemATMSImulator using AWT &amp; Swing on NETBEANS
